@@ -1,0 +1,2 @@
+Contents of file is:
+w,g,d,y,f,3,6,4,7,0,8,2,4

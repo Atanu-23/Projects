@@ -1,0 +1,2 @@
+contents are:
+lust,gluttony,greed,sloth,wrath,envy,pride

@@ -1,0 +1,11 @@
+Hello World!
+I'm python
+I'm a first developing language
+I use many library function
+I'm Python
+I'm Python
+I'm Python
+I'm Python
+Number: 4
+Number: 25
+Number: 64

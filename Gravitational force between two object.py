@@ -1,0 +1,5 @@
+m1=float(input("Enter mass of first object: "))
+m2=float(input("Enter mass of second object: "))
+r=float(input("Enter the distance between two objects: "))
+f=(m1*m2)/(r**2)
+print("The gravitational force between two object is: ",f)

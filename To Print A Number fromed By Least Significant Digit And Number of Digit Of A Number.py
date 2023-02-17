@@ -1,0 +1,11 @@
+n=int(input("ENTER THE NUMBER: "))
+count=0
+a=n
+while n!=0:
+    n=n//10
+    count=count+1
+print("THE NUMBER OF DIGITS IN THE NUMBER IS: ",count)
+d=a%10
+print("THE LEAST SIGNIFICANT DIGITS IN THE NUMBER IS: ",d)
+b=count*10+d
+print("THE NUMBER FORMED BY TAKING NUMBER OF DIGIT IN TENTH PLACE AND LEAST SIGNIFICANT DIGIT IN UNIT PLACE IS: ",b)

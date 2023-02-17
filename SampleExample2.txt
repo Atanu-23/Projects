@@ -1,0 +1,4 @@
+Fruits are:
+Mango,Banana,Watermelon,Pineapple,Apple,Cucumber,Nuts
+Fruits are good for health
+We should eat fruits everyday.

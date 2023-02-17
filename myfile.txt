@@ -1,0 +1,7 @@
+Hello world,I'm Python
+I'm a first developing language
+I use many inbuild library function
+Hello World
+Hello World
+Hello World
+Hello World
